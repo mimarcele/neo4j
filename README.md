@@ -2,10 +2,8 @@
 
 <p align="center">API para cadastro de pessoas utilizando um gerenciador de banco de dados gráfico, o Neo4j</p>
 
-
-   * [Como usar](#como-usar)
-
 <!--ts-->
+   * [Como usar](#como-usar)
 
       * [Pre Requisitos](#pre-requisitos)
       * <p>Como pré-requisito é necessário ter o docker instalado em sua máquina. Link para repositório onde explico como instalar o docker -> https://github.com/mimarcele/docker </p>
