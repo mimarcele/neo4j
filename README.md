@@ -4,6 +4,7 @@
 
 <!--ts-->
    * [Como usar](#como-usar)
+   * <p> Api pode ser utilizada para cadastro de pessoas </p>
 
       * [Pre Requisitos](#pre-requisitos)
       * <p>Como pré-requisito é necessário ter o docker instalado em sua máquina. Link para repositório onde explico como instalar o docker -> https://github.com/mimarcele/docker </p>
