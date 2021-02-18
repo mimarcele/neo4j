@@ -46,7 +46,7 @@ public class PessoaController {
         return ResponseEntity.ok(pessoaResponse);
     }
 
-    @DeleteMapping("{id}")
+    @DeleteMapping("/{id}")
     public ResponseEntity<Void> deletar(@PathVariable String id){
         pessoaService.deletar(id);
         return ResponseEntity.noContent().build();
