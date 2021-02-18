@@ -5,10 +5,6 @@
 
    * [Como usar](#como-usar)
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
 <!--ts-->
 
       * [Pre Requisitos](#pre-requisitos)
@@ -20,6 +16,9 @@
 <!--te-->
 
 
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
 
 Tecnologias: -Spring Boot -Docker -Neo4j
 
