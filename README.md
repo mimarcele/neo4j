@@ -34,6 +34,9 @@ docker container ls -a
 
 ```
 
+  #Acessando o Neo4j
+  -Para visulizar o banco de dados, é ncessário colocar este caminho em seu navegador -> http://localhost:7474/
+
   ## Features
 
 - [x] Cadastro de usuário
