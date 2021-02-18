@@ -34,7 +34,6 @@ public class PessoaService {
     }
 
     public PessoaResponse obter(String id){
-       // Pessoa pessoa = pessoaRepository.findByIdPessoa(id);
         Pessoa pessoa = pessoaRepository.findById(id).get();
 
         if(pessoa == null){
@@ -80,8 +79,6 @@ public class PessoaService {
          return pessoas;
          }
 
-    private Pessoa getPessoa(final String id){
-        return pessoaRepository.findById(id).orElseThrow(() -> new PessoaNotFoundException("Pessoa não encontrada"));
-    }
+ 
 
 }
