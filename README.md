@@ -8,7 +8,7 @@
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-      * <p>Como pré-requisito é necessário ter o docker instalado em sua máquina, "https://github.com/mimarcele/docker" </p>
+      * <p>Como pré-requisito é necessário ter o docker instalado em sua máquina. Link para repositório onde explico como instalar o docker -> https://github.com/mimarcele/docker </p>
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
