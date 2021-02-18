@@ -34,13 +34,13 @@ docker container ls -a
 
 ```
 
-  ### Features
+  ## Features
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
-### Autor
+## Autor
 
 Feito por Milena Marcele 👋🏽 Entre em contato!
 
