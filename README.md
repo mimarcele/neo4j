@@ -2,6 +2,31 @@
 
    ## 📰Sobre:
    API para cadastro de pessoas utilizando um gerenciador de banco de dados gráfico, o Neo4j
+   
+   ## 🛠Ferramentas Utilizadas:
+   -Intellij
+   -Docker
+   -Postman
+   -Cmder
+   
+   ## 🎮Tecnologias Utilizadas:
+  - Java11
+  - Neo4j
+  - Spring Boot
+  - Lombok
+  - Mapstruct
+
+## Comando Utilizados no Cmder para criar o container do Neo4j:
+
+```bash
+#criar um novo container
+docker run --publish=7474:7474 --publish=7687:7687 neo4j:3.5.20
+
+#listar todos container
+docker container ls -a;
+
+```
+
 
     * [Pre Requisitos](#pre-requisitos)
       * <p>Como pré-requisito é necessário ter o docker instalado em sua máquina. Link para repositório onde explico como instalar o docker -> https://github.com/mimarcele/docker </p>
