@@ -35,7 +35,7 @@ docker container ls -a
 ```
 
   ## Acessando o Neo4j
-  Para visulizar o banco de dados, é ncessário inserir este endpoint em seu navegador -> http://localhost:7474/
+  Para visulizar o banco de dados, é necessário inserir este endpoint em seu navegador -> http://localhost:7474/
 
   ## Features
 
