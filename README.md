@@ -41,9 +41,10 @@ docker container ls -a
 - [ ] Cadastro de produtos
 
 ### Autor
----
 
 Feito por Milena Marcele 👋🏽 Entre em contato!
+
+
 <a href="https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
