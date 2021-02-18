@@ -3,13 +3,13 @@
    ## 📰Sobre:
    API para cadastro de pessoas utilizando um gerenciador de banco de dados gráfico, o Neo4j
    
-   ## 🛠Ferramentas Utilizadas:
+   ## 🛠Ferramentas:
    -Intellij
    -Docker
    -Postman
    -Cmder
    
-   ## 🎮Tecnologias Utilizadas:
+   ## 🎮Tecnologias:
   - Java11
   - Neo4j
   - Spring Boot
