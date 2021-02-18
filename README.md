@@ -23,7 +23,7 @@
 docker run --publish=7474:7474 --publish=7687:7687 neo4j:3.5.20
 
 #listar todos container
-docker container ls -a;
+docker container ls -a
 
 ```
 
