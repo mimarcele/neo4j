@@ -18,7 +18,7 @@
 
 
 
-    ## [Pre Requisitos]
+   Pre Requisitos
       - Como pré-requisito é necessário ter o docker instalado em sua máquina. Link para repositório onde explico como instalar o docker -> https://github.com/mimarcele/docker 
       - Com o docker rodando em sua máquina, é necessário criar um container com a imagem do Neo4j.  O Neo4j é uma imagem oficial do dockerhub, basta escolher a versão desejada e inserir na seguinte linha de comando em seu terminal:
  
