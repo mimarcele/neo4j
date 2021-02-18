@@ -1,5 +1,7 @@
 <h1 align="center">Neo4j</h1>
-Descrição: Api para cadastro de pessoas utilizando como banco de dados o Neo4j, um banco de dados gráfico.
+
+<p align="center">API para cadastro de pessoas utilizando um gerenciador de banco de dados gráfico, o Neo4j</p>
+
 
 Tecnologias: -Spring Boot -Docker -Neo4j
 
