@@ -78,7 +78,4 @@ public class PessoaService {
             .collect(Collectors.toList());
          return pessoas;
          }
-
- 
-
 }
