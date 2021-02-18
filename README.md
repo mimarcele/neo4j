@@ -4,7 +4,6 @@
 
 
    * [Como usar](#como-usar)
-   * ### Features
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
