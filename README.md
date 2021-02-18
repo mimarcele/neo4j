@@ -1,8 +1,7 @@
 <h1 align="center">Neo4j</h1>
 
-<p align="center">
    ## 📰Sobre:
-   API para cadastro de pessoas utilizando um gerenciador de banco de dados gráfico, o Neo4j</p>
+   API para cadastro de pessoas utilizando um gerenciador de banco de dados gráfico, o Neo4j
 
     * [Pre Requisitos](#pre-requisitos)
       * <p>Como pré-requisito é necessário ter o docker instalado em sua máquina. Link para repositório onde explico como instalar o docker -> https://github.com/mimarcele/docker </p>
